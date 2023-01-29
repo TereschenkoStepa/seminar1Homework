@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\bin\Debug\net6.0\seminar1Homework.exe
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\bin\Debug\net6.0\seminar1Homework.deps.json
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\bin\Debug\net6.0\seminar1Homework.runtimeconfig.json
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\bin\Debug\net6.0\seminar1Homework.dll
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\bin\Debug\net6.0\seminar1Homework.pdb
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\obj\Debug\net6.0\seminar1Homework.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\obj\Debug\net6.0\seminar1Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\obj\Debug\net6.0\seminar1Homework.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\obj\Debug\net6.0\seminar1Homework.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\obj\Debug\net6.0\seminar1Homework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\obj\Debug\net6.0\seminar1Homework.dll
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\obj\Debug\net6.0\refint\seminar1Homework.dll
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\obj\Debug\net6.0\seminar1Homework.pdb
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\obj\Debug\net6.0\seminar1Homework.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Git_GB\C#Adication\seminar1Homework\obj\Debug\net6.0\ref\seminar1Homework.dll
